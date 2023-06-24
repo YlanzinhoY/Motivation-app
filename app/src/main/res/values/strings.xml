@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="text_salute">Olá, kotlin!</string>
+    <string name="text_phrase">Riscos devem ser corrigos, porque o maior perigo não é nada!</string>
+    <string name="button_new_phrase">Nova Frase</string>
+    <string name="lets_begin">Vamos Começar?</string>
+    <string name="whats_your_name">Qual seu nome</string>
+    <string name="error_inform_your_name">"Informe seu nome"</string>
+</resources>
